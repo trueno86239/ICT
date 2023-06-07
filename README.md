@@ -1,6 +1,6 @@
-# Název hry
+# Day 'n' Knight
 
-V tomto repozitáři bude moje hra vytvořená v Godot Engine.
+V tomto repozitáři bude moje hra (Day 'n' Knight vytvořená v Godot Engine.
 
 
 ## Použité assety:
