@@ -3,7 +3,7 @@
 V tomto repozitáří je moje hra vytvořená v Godot Game Engine.
 
 Při vytváření této hry jsem poprvé pracoval v Godotu.
-Hra bouhužel neodpovídá mojí původní představě, ale budu na ní pracovat přes letní prázdniny :)
+\nHra bouhužel neodpovídá mojí původní představě, ale budu na ní pracovat přes letní prázdniny :)
 
 
 
